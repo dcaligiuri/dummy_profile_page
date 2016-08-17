@@ -1,0 +1,70 @@
+.portfolio {
+  background-color: #F8F8FF;
+}
+
+.navbar-custom {
+    background-color: #8B008B;
+    color:#ffffff;
+    border-radius:0;
+}
+
+
+
+
+#about {
+  background-color: darkgray;
+}
+
+
+.navbar {
+    height: 75px;
+}
+
+
+#yo {
+  color : white;
+}
+
+.gray {
+  color : #696969;
+}
+
+.contact-me {
+  background-color: #F8F8FF;
+}
+
+h1 {
+  color: blue;
+}
+
+hr {
+  border-color: black;
+}
+
+
+name {
+   height:75px;
+   width: 450px;
+   font-size:100pt;
+  
+}
+
+#message{
+  height:300px;
+}
+
+
+[type="text"] {
+    font-size:30px;
+}
+
+h3 {
+    color: green;
+}
+
+h5 {
+  visibility: hidden;
+}
+#body {
+  background-color : 	#696969;
+}
